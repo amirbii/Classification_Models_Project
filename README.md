@@ -110,5 +110,3 @@ scikit-learn
 
 
 
-می‌خوای من یه **requirements.txt** هم بسازم که فقط با یه دستور `pip install -r requirements.txt` همه وابستگی‌ها نصب شن؟
-```
